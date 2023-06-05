@@ -20,7 +20,7 @@ The project performs CRUD operations on the "Scholers" entity, allowing users to
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/praticing-hibernate.git
+   git clone https://github.com/developerrajthakur22/HibernateCRUD 
    ```
    
 2. Configure the database connection in the persistence.xml file:
